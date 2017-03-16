@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="24">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"$3810 (3810 * 4 = 15240 = 0x3B88)"</Description>
+      <LastState Value="55.31829834" RealAddress="00A4D4E8"/>
+      <VariableType>Float</VariableType>
+      <Address>A49960+3B88</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Burglar"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description>"$0165 - ONMISSION_BURGLARY"</Description>
+          <LastState Value="1" RealAddress="00A49BF4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>A49960+294</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>17</ID>
+          <Description>"$1490 - MISSION_BURGLARY_PASSED"</Description>
+          <LastState Value="1" RealAddress="00A4B0A8"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+649960+1748</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>15</ID>
+          <Description>"$1792 - BURGLARY_NOISE_F"</Description>
+          <LastState Value="0" RealAddress="00A4B560"/>
+          <VariableType>Float</VariableType>
+          <Address>gta_sa.exe+649960+1C00</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>18</ID>
+          <Description>"$1793 - BURGLARY_DETECTED_FLAG"</Description>
+          <LastState Value="0" RealAddress="00A4B564"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+649960+1C04</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description>"$5293 - BURGLARY_NOISE_I"</Description>
+          <LastState Value="0" RealAddress="00A4EC14"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+649960+52B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>16</ID>
+          <Description>"$8228 - BUGRLARY_CASH"</Description>
+          <LastState Value="0" RealAddress="00A519F0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+649960+8090</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11</ID>
+          <Description>"$8229 - BUGRLARY_GARAGES"</Description>
+          <LastState Value="1196578114" RealAddress="00A519F4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+649960+8094</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"$8235 - BURGLARY_DAYLIGHT"</Description>
+          <LastState Value="259131" RealAddress="00A51A0C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+649960+80AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>13</ID>
+          <Description>"$8236 - BURGLARY_ESCAPE_TIME_SEC"</Description>
+          <LastState Value="10" RealAddress="00A51A10"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+649960+80B0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>14</ID>
+          <Description>"$8237 - BURGLARY_TIME_LEFT"</Description>
+          <LastState Value="300000" RealAddress="00A51A14"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+649960+80B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description>"Items In Van"</Description>
+          <LastState Value="0" RealAddress="00A48A20"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+648A20</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"Items in Current Load"</Description>
+          <LastState Value="0" RealAddress="00A48A1C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+648A1C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3</ID>
+          <Description>"Total Burglary Items"</Description>
+          <LastState Value="23" RealAddress="00B79128"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+779128</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>21</ID>
+          <Description>"Total Burglary Items"</Description>
+          <LastState Value="23" RealAddress="00A4B55C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+64B55C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"Number of Houses Burgled"</Description>
+          <LastState Value="9" RealAddress="00B7911C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+77911C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>23</ID>
+          <Description>"Money Made From Burglary"</Description>
+          <LastState Value="10580" RealAddress="00A4B558"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+64B558</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>24</ID>
+          <Description>"Largest burglary swag"</Description>
+          <LastState Value="10580" RealAddress="00C1AD44"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+81AD44</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"040 - Largest burglary swag"</Description>
+      <LastState Value="10580" RealAddress="00B79420"/>
+      <VariableType>Float</VariableType>
+      <Address>B79380+4*28</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"040 - Largest Burlgary Swag"</Description>
+      <LastState Value="10580" RealAddress="00B79420"/>
+      <VariableType>Float</VariableType>
+      <Address>gta_sa.exe+779380+4*28</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>27</ID>
+      <Description>"041 - Money Made From Burglary"</Description>
+      <LastState Value="10580" RealAddress="00B79424"/>
+      <VariableType>Float</VariableType>
+      <Address>gta_sa.exe+779380+4*29</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
