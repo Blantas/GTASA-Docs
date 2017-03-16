@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="24">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Game State"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>00C8D4C0 </Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Player In Menu"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>BA67A4 </Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Main menu switch"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>BA6748 +E9</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Player In Menu"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>BA6748 + 5C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Show Menu"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>BA8DFB </Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Frame limiter"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>BA8E14 </Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Is Player In Menu"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>BA8E24</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Toggle Menu"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>BA8EB1</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"Makes everything stop?"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>gta_sa.exe+B7F1C9</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"Global Timer (ms)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>B7F204</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"Global Timer (ms)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe +77CB84</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0EA17538</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"A replay is active?"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+57FACC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"A replay is active?"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+643088</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"N.O.E Visibility (0-100)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+650E84</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"In Menu"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe +7A67A4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"Global Timer (read-only)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>B610E0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+82457C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"Game Language"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>BA67CC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"Frame Limit"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>C1704C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>21</ID>
+      <Description>"Value to Check Versions"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+42457C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>00160AF0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>153</ID>
+      <Description>"1.0 US/EU"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>17</ID>
+          <Description>"Game State 1.0 (US)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+88D4C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>154</ID>
+          <Description>"Game Timer (1.0 US)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+77CB84</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>72</ID>
+          <Description>"Player In Menu (1.0 US)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+7A67A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>156</ID>
+          <Description>"=38079 (1.0 EU Original?)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+D5C248</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>152</ID>
+          <Description>"=38079 (1.0 EU)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+4245BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>155</ID>
+          <Description>"=38079 (1.0 US)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+42457C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>150</ID>
+      <Description>"1.01 US/EU"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>146</ID>
+          <Description>"Game State (1.01 EU)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+88FC80</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>148</ID>
+          <Description>"Game Timer (1.01 EU)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+77CB84 + 2680</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>147</ID>
+          <Description>"Player In Menu (1.01 EU)"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>gta_sa.exe+7A67A4 + 2680</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>157</ID>
+          <Description>"=38079 (1.01 EU Original)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+B0E5F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>158</ID>
+          <Description>"=38079 (1.01 EU Original)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+FAFAE8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>151</ID>
+          <Description>"=38079 (1.01 EU)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+42533C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>149</ID>
+      <Description>"1.01 PL?"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>76</ID>
+          <Description>"Game State (1.01 PL?)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+900F30</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>145</ID>
+          <Description>"Game Timer (1.01 PL?)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+7f7b38</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>74</ID>
+          <Description>"Player In Menu (1.01 PL?)"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>gta_sa.exe+7E0D1C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>163</ID>
+      <Description>"3.0 STEAM"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>164</ID>
+          <Description>"Game State (3.0)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta-sa.exe+9187F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>166</ID>
+          <Description>"Game Timer (3.0)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta-sa.exe+80f538</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>168</ID>
+          <Description>"Player In Menu (3.0)"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>gta-sa.exe+83315C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>167</ID>
+          <Description>"Player In Menu (3.0)"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>gta-sa.exe+7F86EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>169</ID>
+          <Description>"=38079 (3.0)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta-sa.exe+45EC4A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>165</ID>
+          <Description>"Game State (3.0 testapp)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>testapp.exe+9187F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>160</ID>
+          <Description>"Game Timer (3.0 testapp)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>testapp.exe+80f538</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>161</ID>
+          <Description>"Player In Menu (3.0 testapp)"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>testapp.exe+7F86EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>162</ID>
+          <Description>"Player In Menu (3.0 testapp)"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>testapp.exe+83315C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>159</ID>
+          <Description>"=38079 (3.0 testapp)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>testapp.exe+45EC4A</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"newsteam r2"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>23</ID>
+          <Description>"Game State newSteam r2?"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"gta-sa.exe"+919020</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>24</ID>
+          <Description>"In Pause Menu?"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>"gta-sa.exe"+7FAF2C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>25</ID>
+          <Description>"In Pause Menu?"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>"gta-sa.exe"+833994</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"game timer?"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"gta-sa.exe"+7F22BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>28</ID>
+          <Description>"game timer?"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"gta-sa.exe"+7F2500</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>170</ID>
+      <Description>"loading"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+7A67A5</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
