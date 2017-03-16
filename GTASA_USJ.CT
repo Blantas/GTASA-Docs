@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="24">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>352</ID>
+      <Description>"No description"</Description>
+      <LastState Value="270818443" RealAddress="00F79060"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+B79060</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>353</ID>
+      <Description>"No description"</Description>
+      <LastState Value="472138889" RealAddress="00F79064"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+B79064</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>354</ID>
+      <Description>"No description"</Description>
+      <LastState Value="246" RealAddress="008ED9CC"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+4ED9CC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>355</ID>
+      <Description>"No description"</Description>
+      <LastState Value="246" RealAddress="008ED9CC"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+4ED9CC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>356</ID>
+      <Description>"No description"</Description>
+      <LastState Value="2" RealAddress="00B79064"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+779064</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>359</ID>
+      <Description>"Unique Stunt Jumps"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>357</ID>
+          <Description>"USJ Done"</Description>
+          <LastState Value="2" RealAddress="00B79064"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+779064</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>358</ID>
+          <Description>"USJ Found"</Description>
+          <LastState Value="5" RealAddress="00B79060"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+779060</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>361</ID>
+          <Description>"Current Active USJ"</Description>
+          <LastState Value="0" RealAddress="00A9A88C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>A9A88C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>367</ID>
+          <Description>"Current Active USJ (Done)"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>A9A88C</Address>
+          <Offsets>
+            <Offset>41</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>360</ID>
+          <Description>"Done Jumps"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>368</ID>
+              <Description>"01 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BE9A1"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>0 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>365</ID>
+              <Description>"02 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BE9E5"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>1 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>379</ID>
+              <Description>"03 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEA29"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>2 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>363</ID>
+              <Description>"04 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEA6D"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>3 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>366</ID>
+              <Description>"05 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEAB1"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>4 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>373</ID>
+              <Description>"06 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEAF5"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>5 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>383</ID>
+              <Description>"07 Done"</Description>
+              <LastState Value="1" RealAddress="0D9BEB39"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>6 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>371</ID>
+              <Description>"08 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEB7D"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>7 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>370</ID>
+              <Description>"09 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEBC1"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>8 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>386</ID>
+              <Description>"10 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEC05"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>9 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>377</ID>
+              <Description>"11 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEDE1"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>10 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>378</ID>
+              <Description>"12 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEE25"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>11 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>364</ID>
+              <Description>"13 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEE69"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>12 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>380</ID>
+              <Description>"14 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEEAD"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>13 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>381</ID>
+              <Description>"15 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEEF1"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>14 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>382</ID>
+              <Description>"16 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEF35"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>15 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>372</ID>
+              <Description>"17 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEF79"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>16 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>384</ID>
+              <Description>"18 Done"</Description>
+              <LastState Value="0" RealAddress="0D9BEFBD"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>17 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>385</ID>
+              <Description>"19 Done"</Description>
+              <LastState Value="1" RealAddress="0D9BF001"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>18 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>369</ID>
+              <Description>"20 Done"</Description>
+              <LastState Value="1" RealAddress="0D9BF045"/>
+              <VariableType>Byte</VariableType>
+              <Address>A9A888</Address>
+              <Offsets>
+                <Offset>19 * 44 + 41</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>374</ID>
+      <Description>"No description"</Description>
+      <LastState Value="26508" RealAddress="0E4FFC39"/>
+      <VariableType>2 Bytes</VariableType>
+      <Address>E4FFBF8+41</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>375</ID>
+      <Description>"No description"</Description>
+      <LastState Value="12B8E800" RealAddress="1182F868"/>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1182F868</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>376</ID>
+      <Description>"No description"</Description>
+      <LastState Value="6B" RealAddress="0E4FE9A1"/>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>Byte</VariableType>
+      <Address>E4FFC3C+41-44*47</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <LuaScript>
+</LuaScript>
+</CheatTable>
