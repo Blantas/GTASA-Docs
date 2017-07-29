@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="24">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"money"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+87CA50</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"moneyToDisplay"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+87CA54</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"No description"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+760174</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"No description"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+783E1C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"No description"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+79E2EC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"No description"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+87B7E4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"gamestate?"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+760470</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"timeoflastevent"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+76046D</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"wasForegroundApp?"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+760444</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"globalGameTimer"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+783DFC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+783DE8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+783DE4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"gameTimer?"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+783DE0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"No description"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+783DDC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"No description"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+783DD8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+783DEC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+783DF0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+783DF4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"CTimer::m_snTimeInMillisecondsPauseMode"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+783DF8+4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"dword_10783E00"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+783DFC+4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>21</ID>
+      <Description>"dword_10783E04"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+783E04</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"CTimer::ms_fTimeScale"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+783E08</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"CTimer::ms_fTimeStep"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+783E0C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>24</ID>
+      <Description>"CTimer::ms_fTimeStepNonClipped"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+783E10</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"CTimer::ms_fOldTimeStep"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+783E14</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"CTimer::m_FrameCounter"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+783E18</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>27</ID>
+      <Description>"CTimer::m_UserPause"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+783E1C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>28</ID>
+      <Description>"CTimer::m_CodePause"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+783E1D</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>30</ID>
+      <Description>"CTimer::bSlowMotionActive"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+783E1E</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>29</ID>
+      <Description>"CTimer::bSkipProcessThisFrame"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+783E1F</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>32</ID>
+      <Description>"CPad::m_bDebugCamPCOn"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+79E1BA</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>36</ID>
+      <Description>"gbLARiots"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+AB4840</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>35</ID>
+      <Description>"gbLARiots_NoPoliceCars"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+AB4841</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>33</ID>
+      <Description>"gbBigWhiteDebugLightSwitchedOn"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+AB4842</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>37</ID>
+      <Description>"TehCamera"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+817D00+8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>31</ID>
+      <Description>"show fps"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+7B2505</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>38</ID>
+      <Description>"No description"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+760174</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>39</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+76017C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>154</ID>
+      <Description>"CGangWars::State"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+700550</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>155</ID>
+      <Description>"CGangWars::State2"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+70052C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>41</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>42</ID>
+      <Description>"CTheScripts::OnAMissionFlagOffset"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+80DFD4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>43</ID>
+      <Description>"CTheScripts::ScriptSpace"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+7B9FE8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>44</ID>
+      <Description>"CTheScripts::OnAMissionFlag"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+7B9FE8+60</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>66</ID>
+      <Description>"onMission probably"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>45</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+7B87C5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>47</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A66CB0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>48</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+7B87C5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>49</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+7B8818</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>50</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+7BA020</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>51</ID>
+          <Description>"onMission?"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+7BA648</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>46</ID>
+          <Description>"CGangWars::bIsPlayerOnAMission"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+9236A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>53</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A66CB0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>54</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A92115</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>55</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A92135</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>56</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A92155</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>57</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A921F5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>58</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A922F5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>59</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A92375</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>60</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A92395</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>61</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A923B5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>62</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A923D5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>63</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A923F5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>64</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A92415</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>65</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A92495</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>67</ID>
+          <Description>"No description"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+A92495</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>68</ID>
+      <Description>"drivingCounter"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+7A3A54</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>69</ID>
+      <Description>"drivingSkill increanse with"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+7A3460</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>70</ID>
+      <Description>"money"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+87CA50</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>71</ID>
+      <Description>"money on screen"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+87CA54</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>72</ID>
+      <Description>"wanted level"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1644BA9C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>73</ID>
+      <Description>"wanted level"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>164FE708</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>75</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+830FF4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>76</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+832154</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>152</ID>
+      <Description>"Wanted Level"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>0000FF</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>77</ID>
+          <Description>"CWanted::MaximumWantedLevel"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+720DBC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>78</ID>
+          <Description>"CWanted::nMaximumWantedLevel"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+720DC0</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>85</ID>
+      <Description>"Statistics"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>0000FF</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>84</ID>
+          <Description>"000 Progress made"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>83</ID>
+          <Description>"001 Total Progress"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>86</ID>
+          <Description>"002 Furthest Hoop"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>82</ID>
+          <Description>"003 Distance travelled on foot"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 3</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>93</ID>
+          <Description>"004 Distance travelled by car"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>92</ID>
+          <Description>"005 Distance travelled by motorbike"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>91</ID>
+          <Description>"006 Distance travelled by boat"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>90</ID>
+          <Description>"007 Distance travelled by golf cart"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 7</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>89</ID>
+          <Description>"008 Distance travelled by helicopter"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>88</ID>
+          <Description>"009 Distance travelled by plane"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 9</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>87</ID>
+          <Description>"010 Longest Wheelie distance"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>114</ID>
+          <Description>"011 Longest Stoppie distance"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>113</ID>
+          <Description>"012 Longest 2 wheels distance"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>112</ID>
+          <Description>"013 Weapon Budget"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>111</ID>
+          <Description>"014 Fashion Budget"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>110</ID>
+          <Description>"015 Property Budget"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>109</ID>
+          <Description>"016 Auto Repair and Painting Budget"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 10</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>108</ID>
+          <Description>"017 Longest Wheelie time"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 11</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>107</ID>
+          <Description>"018 Longest Stoppie time"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 12</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>106</ID>
+          <Description>"019 Longest 2 wheels time"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 13</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>105</ID>
+          <Description>"020 Food Budget"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 14</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>98</ID>
+          <Description>"021 Fat"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 15</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>97</ID>
+          <Description>"022 Stamina"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 16</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>96</ID>
+          <Description>"023 Muscle"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 17</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>95</ID>
+          <Description>"024 Max Health"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 18</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>94</ID>
+          <Description>"025 Sex appeal"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 19</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>102</ID>
+          <Description>"026 Distance travelled by swimming"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 1A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>101</ID>
+          <Description>"027 Distance travelled by bicycle"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 1B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>100</ID>
+          <Description>"028 Distance travelled on treadmill"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 1C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>99</ID>
+          <Description>"029 Distance travelled on exercise bike"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 1D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>115</ID>
+          <Description>"030"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 1E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>131</ID>
+          <Description>"040"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 28</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>130</ID>
+          <Description>"050"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 32</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>129</ID>
+          <Description>"060"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 3C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>116</ID>
+          <Description>"069 Pistol Skill"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 45</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>128</ID>
+          <Description>"070 Silenced Pistol Skill"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 46</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>127</ID>
+          <Description>"071 Desert Eagle Skill"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 47</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>126</ID>
+          <Description>"072 Shotgun Skill"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 48</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>125</ID>
+          <Description>"073 Sawn-Off Shotgun Skill"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 49</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>124</ID>
+          <Description>"074 Combat Shotgun Skill"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 4A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>123</ID>
+          <Description>"075 Machine Pistol Skill"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 4B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>122</ID>
+          <Description>"076 SMG Skill"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 4C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>121</ID>
+          <Description>"077 AK-47 Skill"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 4D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>120</ID>
+          <Description>"078 M4 Skill"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 4E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>119</ID>
+          <Description>"079 Rifle Skill"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 4F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>118</ID>
+          <Description>"080 Appearance"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 50</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>117</ID>
+          <Description>"081 Gambling Skill"</Description>
+          <VariableType>Float</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 51</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>134</ID>
+          <Description>"120 People wasted by others"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 52</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>135</ID>
+          <Description>"121 People you've wasted"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 53</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>132</ID>
+          <Description>"148 Total number of missions in game"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 6E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>137</ID>
+          <Description>"149 Cash made in a Taxi"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 6F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>138</ID>
+          <Description>"150 Passengers dropped off"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 70</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>147</ID>
+          <Description>"151"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 71</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>146</ID>
+          <Description>"152"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 72</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>145</ID>
+          <Description>"153"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 73</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>144</ID>
+          <Description>"154"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 74</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>143</ID>
+          <Description>"155"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 75</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>142</ID>
+          <Description>"156"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 76</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>141</ID>
+          <Description>"157"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 77</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>140</ID>
+          <Description>"158"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 78</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>139</ID>
+          <Description>"159"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 79</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>133</ID>
+          <Description>"160 Driving Skill"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 7A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>136</ID>
+          <Description>"164 Armour"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 7E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>149</ID>
+          <Description>"165 Energy"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 7F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>148</ID>
+          <Description>"166 Photographs Taken"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * 80</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>150</ID>
+          <Description>"229 Bike Skill"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * BF</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>151</ID>
+          <Description>"230 Cycling Skill"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7A2F88 + 4 * C0</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>160</ID>
+      <Description>"CWorld::Players"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+87CA50</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>162</ID>
+      <Description>"CWorld::PlayersInFocus"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+87B7F4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>161</ID>
+      <Description>"CWorld::Players + ?"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+87C998+2F</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>163</ID>
+      <Description>"CPed +0x534 RUNNING STATE"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+818A68</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>164</ID>
+      <Description>"CPed"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+818534+46C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>165</ID>
+      <Description>"No description"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+79A9A6</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>166</ID>
+      <Description>"CPed"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>D29F014</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>169</ID>
+      <Description>"CPed +0x42 = [byte] Is the BP/EP/FP/DP"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>D29F014+42</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>167</ID>
+      <Description>"Cped +0x46C = [byte] Player check"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>0D29F480</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>168</ID>
+      <Description>"CPed +0x46F = Crouch state:"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>D29F014+46f</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>170</ID>
+      <Description>"CPed +0x46F = Crouch state:"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+44CF483</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>171</ID>
+      <Description>"CPed X"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>30</Offset>
+        <Offset>14</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>173</ID>
+      <Description>"CPed Y"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>34</Offset>
+        <Offset>14</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>172</ID>
+      <Description>"CPed Z"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>38</Offset>
+        <Offset>14</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>179</ID>
+      <Description>"CPed Binary Flags 2"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>Binary</VariableType>
+      <BitStart>0</BitStart>
+      <BitLength>13</BitLength>
+      <ShowAsBinary>1</ShowAsBinary>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>10C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>181</ID>
+      <Description>"CPhysical flags"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>178</ID>
+          <Description>"CPhysical Flags A [00-14]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>0</BitStart>
+          <BitLength>15</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>205</ID>
+          <Description>"[0] "</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>0</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>211</ID>
+          <Description>"[1] Gravity"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>1</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>206</ID>
+          <Description>"[2] No Collision"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>2</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>207</ID>
+          <Description>"[5] Ability to Move"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>5</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>208</ID>
+          <Description>"[6] No Partial Collision"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>6</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>209</ID>
+          <Description>"[7] No Jumping"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>7</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>210</ID>
+          <Description>"[13] Ability to Move"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>7</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>174</ID>
+          <Description>"CPhysical flags [00-31]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>0</BitStart>
+          <BitLength>32</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>191</ID>
+          <Description>"CPhysical flags [00-07]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>0</BitStart>
+          <BitLength>8</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>192</ID>
+          <Description>"CPhysical flags [08-15]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>8</BitStart>
+          <BitLength>8</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>193</ID>
+          <Description>"CPhysical flags [16-23]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>16</BitStart>
+          <BitLength>8</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>194</ID>
+          <Description>"CPhysical flags [24-31]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>24</BitStart>
+          <BitLength>8</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>182</ID>
+          <Description>"[0] Submerged into water?"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>0</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>186</ID>
+          <Description>"[1] Parachute Fall State"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>1</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>185</ID>
+          <Description>"[2] Bulletproof"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>2</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>187</ID>
+          <Description>"[3] Fireproof"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>3</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>184</ID>
+          <Description>"[4] Gravity-Proof"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>4</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>183</ID>
+          <Description>"[5] Collision-proof"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>5</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>180</ID>
+          <Description>"[6] Melee-proof"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>6</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>188</ID>
+          <Description>"[7] Vehicle related?"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>7</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>198</ID>
+          <Description>"[8]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>8</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>189</ID>
+          <Description>"[9]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>9</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>195</ID>
+          <Description>"[10]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>10</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>196</ID>
+          <Description>"[11]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>11</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>199</ID>
+          <Description>"[12]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>12</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>200</ID>
+          <Description>"[13]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>13</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>201</ID>
+          <Description>"[14]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>14</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>202</ID>
+          <Description>"[15]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>15</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>203</ID>
+          <Description>"[16]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>16</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>204</ID>
+          <Description>"[21]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Binary</VariableType>
+          <BitStart>21</BitStart>
+          <BitLength>1</BitLength>
+          <ShowAsBinary>1</ShowAsBinary>
+          <Address>GTASASCWin8Component.dll+87C998</Address>
+          <Offsets>
+            <Offset>42</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>175</ID>
+      <Description>"CPed-&gt;Health"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>540</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>177</ID>
+      <Description>"CPed-&gt;Max Health"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>544</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>212</ID>
+      <Description>"CPed-&gt;Armour"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>548</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>215</ID>
+      <Description>"CPed-"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>598</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>217</ID>
+      <Description>"CPed-"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>598</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>218</ID>
+      <Description>"CPed-"</Description>
+      <VariableType>Binary</VariableType>
+      <BitStart>0</BitStart>
+      <BitLength>10</BitLength>
+      <ShowAsBinary>1</ShowAsBinary>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>10c</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>216</ID>
+      <Description>"Pads Left/Right Pressed?"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+79E1E0+0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>176</ID>
+      <Description>"CPed-&gt;CPlayerData-&gt;BreatheMeter"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>44</Offset>
+        <Offset>440</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>213</ID>
+      <Description>"CPed-&gt;CPlayerData-&gt;field_34"</Description>
+      <VariableType>Binary</VariableType>
+      <BitStart>0</BitStart>
+      <BitLength>10</BitLength>
+      <ShowAsBinary>1</ShowAsBinary>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>34</Offset>
+        <Offset>440</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>214</ID>
+      <Description>"CPed-&gt;CPlayerData-&gt;field_34-&gt;Bit4:NoJump"</Description>
+      <VariableType>Binary</VariableType>
+      <BitStart>3</BitStart>
+      <BitLength>1</BitLength>
+      <ShowAsBinary>1</ShowAsBinary>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>34</Offset>
+        <Offset>440</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>219</ID>
+      <Description>"CPed-&gt;Lock Movement"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>598</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>221</ID>
+      <Description>"CPed-&gt;"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>112</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>220</ID>
+      <Description>"CPed-&gt;"</Description>
+      <VariableType>Binary</VariableType>
+      <BitStart>0</BitStart>
+      <BitLength>16</BitLength>
+      <ShowAsBinary>1</ShowAsBinary>
+      <Address>GTASASCWin8Component.dll+87C998</Address>
+      <Offsets>
+        <Offset>481</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>222</ID>
+      <Description>"Nos Uses Left"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>GTASASCWin8Component.dll+82E51C</Address>
+      <Offsets>
+        <Offset>48a</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>223</ID>
+      <Description>"Nitro Count"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+82E51C</Address>
+      <Offsets>
+        <Offset>8A4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>225</ID>
+      <Description>"Vehicle Health"</Description>
+      <VariableType>Float</VariableType>
+      <Address>GTASASCWin8Component.dll+82E51C</Address>
+      <Offsets>
+        <Offset>4c0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>224</ID>
+      <Description>"CUserDisplay::CurrentVehicle"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTASASCWin8Component.dll+82E51C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>227</ID>
+      <Description>"DEBUG"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>0000FF</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>40</ID>
+          <Description>"debug fps,coords,version"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+7AD05C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>153</ID>
+          <Description>"DEBUG Wanted Level During Gang Wars"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+79E509</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>159</ID>
+          <Description>"PrintScriptCommandsAll=0"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7B690</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>157</ID>
+          <Description>"DEBUG ?"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+D52E7</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>156</ID>
+          <Description>"PrintScriptCommandsAll"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+8120CB</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>226</ID>
+          <Description>"debug log a (0x90 to log everything)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+D52E7</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>158</ID>
+          <Description>"debug log b (0x90 to log everything)"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+D52E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>228</ID>
+          <Description>"PrintScriptCommandsAll"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GTASASCWin8Component.dll+7B690</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>229</ID>
+          <Description>"OnMission"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>GTASASCWin8Component.dll+7BA648</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry>
+      <Description>Change of mov byte ptr [GTASASCWin8Component.dll+8120CB],00</Description>
+      <Address>097CB690</Address>
+      <ModuleName>GTASASCWin8Component.dll</ModuleName>
+      <ModuleNameOffset>7B690</ModuleNameOffset>
+      <Before>
+        <Byte>CA</Byte>
+        <Byte>20</Byte>
+        <Byte>F6</Byte>
+        <Byte>09</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>C6</Byte>
+        <Byte>05</Byte>
+        <Byte>CB</Byte>
+        <Byte>20</Byte>
+        <Byte>F6</Byte>
+        <Byte>09</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>E8</Byte>
+        <Byte>D4</Byte>
+        <Byte>BD</Byte>
+        <Byte>3C</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov byte ptr [GTASASCWin8Component.dll+8120CB],00</Description>
+      <Address>0904B690</Address>
+      <ModuleName>GTASASCWin8Component.dll</ModuleName>
+      <ModuleNameOffset>7B690</ModuleNameOffset>
+      <Before>
+        <Byte>CA</Byte>
+        <Byte>20</Byte>
+        <Byte>7E</Byte>
+        <Byte>09</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>C6</Byte>
+        <Byte>05</Byte>
+        <Byte>CB</Byte>
+        <Byte>20</Byte>
+        <Byte>7E</Byte>
+        <Byte>09</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>E8</Byte>
+        <Byte>D4</Byte>
+        <Byte>BD</Byte>
+        <Byte>3C</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov byte ptr [GTASASCWin8Component.dll+8120CB],00</Description>
+      <Address>099CB690</Address>
+      <ModuleName>GTASASCWin8Component.dll</ModuleName>
+      <ModuleNameOffset>7B690</ModuleNameOffset>
+      <Before>
+        <Byte>CA</Byte>
+        <Byte>20</Byte>
+        <Byte>16</Byte>
+        <Byte>0A</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>C6</Byte>
+        <Byte>05</Byte>
+        <Byte>CB</Byte>
+        <Byte>20</Byte>
+        <Byte>16</Byte>
+        <Byte>0A</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>E8</Byte>
+        <Byte>D4</Byte>
+        <Byte>BD</Byte>
+        <Byte>3C</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of cmp byte ptr [GTASASCWin8Component.dll+8120CB],00</Description>
+      <Address>09A220E0</Address>
+      <ModuleName>GTASASCWin8Component.dll</ModuleName>
+      <ModuleNameOffset>D20E0</ModuleNameOffset>
+      <Before>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>8D</Byte>
+        <Byte>49</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>80</Byte>
+        <Byte>3D</Byte>
+        <Byte>CB</Byte>
+        <Byte>20</Byte>
+        <Byte>16</Byte>
+        <Byte>0A</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>74</Byte>
+        <Byte>2A</Byte>
+        <Byte>8D</Byte>
+        <Byte>46</Byte>
+        <Byte>08</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of cmp byte ptr [GTASASCWin8Component.dll+8120CB],00</Description>
+      <Address>09A252A0</Address>
+      <ModuleName>GTASASCWin8Component.dll</ModuleName>
+      <ModuleNameOffset>D52A0</ModuleNameOffset>
+      <Before>
+        <Byte>85</Byte>
+        <Byte>A0</Byte>
+        <Byte>DE</Byte>
+        <Byte>06</Byte>
+        <Byte>0A</Byte>
+      </Before>
+      <Actual>
+        <Byte>80</Byte>
+        <Byte>3D</Byte>
+        <Byte>CB</Byte>
+        <Byte>20</Byte>
+        <Byte>16</Byte>
+        <Byte>0A</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>89</Byte>
+        <Byte>85</Byte>
+        <Byte>F8</Byte>
+        <Byte>FB</Byte>
+        <Byte>FF</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov byte ptr [GTASASCWin8Component.dll+8120CB],00</Description>
+      <Address>0F38B690</Address>
+      <ModuleName>GTASASCWin8Component.dll</ModuleName>
+      <ModuleNameOffset>7B690</ModuleNameOffset>
+      <Before>
+        <Byte>CA</Byte>
+        <Byte>20</Byte>
+        <Byte>B2</Byte>
+        <Byte>0F</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>C6</Byte>
+        <Byte>05</Byte>
+        <Byte>CB</Byte>
+        <Byte>20</Byte>
+        <Byte>B2</Byte>
+        <Byte>0F</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>E8</Byte>
+        <Byte>D4</Byte>
+        <Byte>BD</Byte>
+        <Byte>3C</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov byte ptr [GTASASCWin8Component.dll+8120CB],00</Description>
+      <Address>08D7B690</Address>
+      <ModuleName>GTASASCWin8Component.dll</ModuleName>
+      <ModuleNameOffset>7B690</ModuleNameOffset>
+      <Before>
+        <Byte>CA</Byte>
+        <Byte>20</Byte>
+        <Byte>51</Byte>
+        <Byte>09</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>C6</Byte>
+        <Byte>05</Byte>
+        <Byte>CB</Byte>
+        <Byte>20</Byte>
+        <Byte>51</Byte>
+        <Byte>09</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>E8</Byte>
+        <Byte>D4</Byte>
+        <Byte>BD</Byte>
+        <Byte>3C</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+</CheatTable>
