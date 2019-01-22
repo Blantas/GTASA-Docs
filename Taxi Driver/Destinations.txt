@@ -1,0 +1,265 @@
+// Regex for coordinates
+
+:TRUCK_.*\r\n102@ = ([-+]?[0-9]*\.?[0-9]*) \r\n103@ = ([-+]?[0-9]*\.?[0-9]*) \r\n104@ = ([-+]?[0-9]*\.?[0-9]*) \r\n.*\r\n
+
+// Country East Near
+
+-187.4041, -277.0196, 0.4219
+58.0364, -256.7285, 0.5781
+95.8675, -154.3627, 1.5751
+809.7556, -598.0007, 15.1875
+
+// Country East Far
+
+1403.833, 399.4294, 18.75
+1338.289, 348.9004, 18.4062
+
+// LV
+
+1449.715, 2358.852, 9.8203
+1037.475, 2131.344, 9.8203
+987.9741, 2080.389, 9.8203
+1288.671, 1195.232, 9.8656
+2467.902, 1950.061, 9.2381
+2792.744, 2578.336, 9.8203
+2271.477, 2791.739, 9.8203
+2596.519, 1738.582, 9.8281
+2818.84, 912.5091, 9.75
+2706.505, 827.3236, 9.2145
+1627.723, 688.4043, 9.8281
+1504.492, 981.141, 9.7187
+1724.012, 1590.128, 9.2578
+1727.833, 2338.017, 9.813
+
+// Lost Santos
+
+2413.683, -2113.674, 12.3881
+2784.973, -2455.441, 12.625
+2112.662, -2070.376, 12.5547
+1763.641, -2070.371, 12.6195
+
+// Country South
+
+
+-1888.621, -1711.836, 20.7656
+-2117.227, -2380.507, 29.4688
+-1545.439, -2747.032, 47.5314
+
+// Country North
+
+-1407.375, 2645.957, 54.7031
+-2245.581, 2371.693, 3.9919
+-1360.633, 2068.094, 51.4589
+
+// Country North 2
+
+274.2705, 1382.781, 9.6016
+628.8638, 1714.891, 5.9922
+635.0028, 1213.777, 10.7188
+-914.953, 2012.138, 59.9283
+385.8214, 2595.55, 15.4843
+
+// San Fierro
+
+-1556.977, -441.3493, 5.0
+-2659.631, 1380.642, 6.1643
+-1650.928, 437.5679, 6.1797
+-1745.116, 37.8752, 2.5408
+
+
+
+
+
+
+
+// SCM Snippets
+
+
+:SUB_TRUCK_3636
+if 
+  86@ == 1 
+jf @TRUCK_3801 
+	0871: init_jump_table 87@ total_jumps 4 default_jump 0 @TRUCK_3801 jumps 0 @TRUCK_3717 1 @TRUCK_3738 2 @TRUCK_3759 3 @TRUCK_3780 -1 @TRUCK_3801 -1 @TRUCK_3801 -1 @TRUCK_3801 
+
+	:TRUCK_3717
+	05AA: 100@s = 'TRK_CE0'  // ~s~Red County, East San Andreas
+	jump @TRUCK_3801 
+
+	:TRUCK_3738
+	05AA: 100@s = 'TRK_CE1'  // ~s~Blueberry, Central San Andreas
+	jump @TRUCK_3801 
+
+	:TRUCK_3759
+	05AA: 100@s = 'TRK_CE2'  // ~s~Blueberry Acres, Central San Andreas
+	jump @TRUCK_3801 
+
+	:TRUCK_3780
+	05AA: 100@s = 'TRK_CE3'  // ~s~Dillimore, East San Andreas
+	jump @TRUCK_3801 
+
+
+:TRUCK_3801
+if 
+  86@ == 2 
+jf @TRUCK_3924 
+	0871: init_jump_table 87@ total_jumps 2 default_jump 0 @TRUCK_3924 jumps 0 @TRUCK_3882 1 @TRUCK_3903 -1 @TRUCK_3924 -1 @TRUCK_3924 -1 @TRUCK_3924 -1 @TRUCK_3924 -1 @TRUCK_3924 
+
+	:TRUCK_3882
+	05AA: 100@s = 'TRK_CE4'  // ~s~Montgomery, East San Andreas
+	jump @TRUCK_3924 
+
+	:TRUCK_3903
+	05AA: 100@s = 'TRK_CE5'  // ~s~Montgomery, East San Andreas
+	jump @TRUCK_3924 
+
+
+:TRUCK_4715
+if 
+  86@ == 4 
+jf @TRUCK_4859 
+	0871: init_jump_table 87@ total_jumps 3 default_jump 0 @TRUCK_4859 jumps 0 @TRUCK_4796 1 @TRUCK_4817 2 @TRUCK_4838 -1 @TRUCK_4859 -1 @TRUCK_4859 -1 @TRUCK_4859 -1 @TRUCK_4859 
+
+	:TRUCK_4796
+	05AA: 100@s = 'TRK_CS0'  // ~s~Whetstone, South San Andreas
+	jump @TRUCK_4859 
+
+	:TRUCK_4817
+	05AA: 100@s = 'TRK_CS1'  // ~s~Angel Pine, South San Andreas
+	jump @TRUCK_4859 
+
+	:TRUCK_4838
+	05AA: 100@s = 'TRK_CS2'  // ~s~Whetstone, South San Andreas
+	jump @TRUCK_4859 
+
+:TRUCK_4859
+if 
+  86@ == 5 
+jf @TRUCK_5024 
+	0871: init_jump_table 87@ total_jumps 4 default_jump 0 @TRUCK_5024 jumps 0 @TRUCK_4940 1 @TRUCK_4961 2 @TRUCK_4982 3 @TRUCK_5003 -1 @TRUCK_5024 -1 @TRUCK_5024 -1 @TRUCK_5024 
+
+	:TRUCK_4940
+	05AA: 100@s = 'TRK_SF0'  // ~s~Easter Bay Airport, San Fierro
+	jump @TRUCK_5024 
+
+	:TRUCK_4961
+	05AA: 100@s = 'TRK_SF1'  // ~s~Battery Point, San Fierro
+	jump @TRUCK_5024 
+
+	:TRUCK_4982
+	05AA: 100@s = 'TRK_SF2'  // ~s~Easter Basin, San Fierro
+	jump @TRUCK_5024 
+
+	:TRUCK_5003
+	05AA: 100@s = 'TRK_SF3'  // ~s~Easter Basin, San Fierro
+	jump @TRUCK_5024 
+	
+	
+:TRUCK_5024
+if 
+  86@ == 6 
+jf @TRUCK_5168 
+	0871: init_jump_table 87@ total_jumps 3 default_jump 0 @TRUCK_5168 jumps 0 @TRUCK_5105 1 @TRUCK_5126 2 @TRUCK_5147 -1 @TRUCK_5168 -1 @TRUCK_5168 -1 @TRUCK_5168 -1 @TRUCK_5168 
+
+	:TRUCK_5105
+	05AA: 100@s = 'TRK_CN0'  // ~s~El Quebrados, North West San Andreas
+	jump @TRUCK_5168 
+
+	:TRUCK_5126
+	05AA: 100@s = 'TRK_CN1'  // ~s~Bayside Marina, North West San Andreas
+	jump @TRUCK_5168 
+
+	:TRUCK_5147
+	05AA: 100@s = 'TRK_CN2'  // ~s~Tierra Robada, North West San Andreas
+	jump @TRUCK_5168 
+	
+
+:TRUCK_4529
+if 
+  86@ == 7 
+jf @TRUCK_4715 
+	0871: init_jump_table 87@ total_jumps 5 default_jump 0 @TRUCK_4715 jumps 0 @TRUCK_4610 1 @TRUCK_4631 2 @TRUCK_4652 3 @TRUCK_4673 4 @TRUCK_4694 -1 @TRUCK_4715 -1 @TRUCK_4715 
+
+	:TRUCK_4610
+	05AA: 100@s = 'TRK_NC0'  // ~s~Green Palms, North San Andreas
+	jump @TRUCK_4715 
+
+	:TRUCK_4631
+	05AA: 100@s = 'TRK_NC1'  // ~s~Bone County, North San Andreas
+	jump @TRUCK_4715 
+
+	:TRUCK_4652
+	05AA: 100@s = 'TRK_NC2'  // ~s~Bone County, North San Andreas
+	jump @TRUCK_4715 
+
+	:TRUCK_4673
+	05AA: 100@s = 'TRK_NC3'  // ~s~The Sherman Dam, North San Andreas
+	jump @TRUCK_4715 
+
+	:TRUCK_4694
+	05AA: 100@s = 'TRK_NC4'  // ~s~Verdant Meadows, North San Andreas
+	jump @TRUCK_4715 
+	
+	
+	
+:TRUCK_4089
+if 
+  86@ == 8 
+jf @TRUCK_4529 
+	0871: init_jump_table 87@ total_jumps 14 default_jump 0 @TRUCK_4529 jumps 0 @TRUCK_4235 1 @TRUCK_4256 2 @TRUCK_4277 3 @TRUCK_4298 4 @TRUCK_4319 5 @TRUCK_4340 6 @TRUCK_4361 
+	0872: jump_table_jumps 7 @TRUCK_4382 8 @TRUCK_4403 9 @TRUCK_4424 10 @TRUCK_4445 11 @TRUCK_4466 12 @TRUCK_4487 13 @TRUCK_4508 -1 @TRUCK_4529 -1 @TRUCK_4529 
+
+	:TRUCK_4235
+	05AA: 100@s = 'TRK_V0'  // ~s~Redsands West, Las Venturas
+	jump @TRUCK_4529 
+
+	:TRUCK_4256
+	05AA: 100@s = 'TRK_V1'  // ~s~Whitewood Estates, Las Venturas
+	jump @TRUCK_4529 
+
+	:TRUCK_4277
+	05AA: 100@s = 'TRK_V2'  // ~s~Whitewood Estates, Las Venturas
+	jump @TRUCK_4529 
+
+	:TRUCK_4298
+	05AA: 100@s = 'TRK_V3'  // ~s~Las Venturas Airport Depot, Las Venturas
+	jump @TRUCK_4529 
+
+	:TRUCK_4319
+	05AA: 100@s = 'TRK_V4'  // ~s~Starfish Casino, Las Venturas
+	jump @TRUCK_4529 
+
+	:TRUCK_4340
+	05AA: 100@s = 'TRK_V5'  // ~s~Creek, Las Venturas
+	jump @TRUCK_4529 
+
+	:TRUCK_4361
+	05AA: 100@s = 'TRK_V6'  // ~s~Spinybed, Las Venturas
+	jump @TRUCK_4529 
+
+	:TRUCK_4382
+	05AA: 100@s = 'TRK_V7'  // ~s~Pilgrim, Las Venturas
+	jump @TRUCK_4529 
+
+	:TRUCK_4403
+	05AA: 100@s = 'TRK_V8'  // ~s~Rockshore East, Las Venturas
+	jump @TRUCK_4529 
+
+	:TRUCK_4424
+	05AA: 100@s = 'TRK_V9'  // ~s~Rockshore East, Las Venturas
+	jump @TRUCK_4529 
+
+	:TRUCK_4445
+	05AA: 100@s = 'TRK_V10'  // ~s~Randolph Ind. Est., Las Venturas
+	jump @TRUCK_4529 
+
+	:TRUCK_4466
+	05AA: 100@s = 'TRK_V11'  // ~s~LVA Freight depot, Las Venturas
+	jump @TRUCK_4529 
+
+	:TRUCK_4487
+	05AA: 100@s = 'TRK_V12'  // ~s~Las Venturas Airport, Las Venturas
+	jump @TRUCK_4529 
+
+	:TRUCK_4508
+	05AA: 100@s = 'TRK_V13'  // ~s~Redsands West, Las Venturas
+	jump @TRUCK_4529 
