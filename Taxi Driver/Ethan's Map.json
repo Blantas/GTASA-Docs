@@ -1,0 +1,925 @@
+{
+   "activeLayer":0,
+   "layers":[
+      {
+         "name":"San Andreas",
+         "mapId":"SA",
+         "mapScale":0.14121476824050008,
+         "mapOffset":{
+            "x":-191.6724546777353,
+            "y":322.18782845682745
+         },
+         "blips":[
+
+         ],
+         "paths":[
+
+         ],
+         "areas":[
+
+         ],
+         "zones":[
+
+         ]
+      },
+      {
+         "name":"Los Santos",
+         "mapId":"SA",
+         "mapScale":0.32805,
+         "mapOffset":{
+            "x":-1494.246568486521,
+            "y":-1719.8507749891953
+         },
+         "blips":[
+            {
+               "color":"#ffb82b",
+               "x":2468.15,
+               "y":-1736.18,
+               "z":12.38,
+               "name":"Liquor Mart"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2794,
+               "y":-1828,
+               "z":10,
+               "name":"The Stadium"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1884.19,
+               "y":-1257.52,
+               "z":12.4,
+               "name":"Glen Park"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2317.48,
+               "y":-1386.6,
+               "z":22.88,
+               "name":"Sculpture Park"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2237.76,
+               "y":-1304.16,
+               "z":22.85,
+               "name":"Church"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2221.09,
+               "y":-1137.33,
+               "z":24.63,
+               "name":"Jefferson Motel"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2146.74,
+               "y":-1179.8,
+               "z":22.83,
+               "name":"The Pik 'n' Go market"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2075.56,
+               "y":-1202.79,
+               "z":22.76,
+               "name":"Leon Diamonds"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2320,
+               "y":-1655,
+               "z":14,
+               "name":"Ten Green Bottles"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2455,
+               "y":-1502,
+               "z":24,
+               "name":"Mama's Cinema"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2181,
+               "y":-1771,
+               "z":13,
+               "name":"A 24 hour motel"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2084.73,
+               "y":-1800.86,
+               "z":12.38,
+               "name":"The Well Stacked Pizza Co"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2078.01,
+               "y":-1791.59,
+               "z":12.38,
+               "name":"Reece's Barber Shop"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2081.29,
+               "y":-1779.5,
+               "z":12.38,
+               "name":"The tattoo shop"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2418.54,
+               "y":-2085.12,
+               "z":12.29,
+               "name":"The truck park"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1742.69,
+               "y":-1858.7,
+               "z":12.42,
+               "name":"Unity Station"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1668,
+               "y":-2253,
+               "z":13,
+               "name":"The Airport"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1432.2,
+               "y":-2274.65,
+               "z":12.39,
+               "name":"The Airport"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1256,
+               "y":-2028,
+               "z":60,
+               "name":"The Observatory"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1532.79,
+               "y":-1675.44,
+               "z":12.38,
+               "name":"The police station"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1472.35,
+               "y":-1729.71,
+               "z":12.38,
+               "name":"Pershing Square"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1855.42,
+               "y":-1383.27,
+               "z":12.4,
+               "name":"Skate Park"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2025,
+               "y":-1413,
+               "z":17,
+               "name":"County General Hospital"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1361.22,
+               "y":-1277.9,
+               "z":12.38,
+               "name":"Ammu-Nation"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1192,
+               "y":-1324,
+               "z":13,
+               "name":"All Saints General Hospital"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1031.07,
+               "y":-1329.7,
+               "z":12.39,
+               "name":"The Donut Shop"
+            },
+            {
+               "color":"#ffb82b",
+               "x":814,
+               "y":-1330,
+               "z":13,
+               "name":"Market Station"
+            },
+            {
+               "color":"#ffb82b",
+               "x":667.76,
+               "y":-1265.69,
+               "z":12.47,
+               "name":"The Country Club"
+            },
+            {
+               "color":"#ffb82b",
+               "x":368.2,
+               "y":-2042.54,
+               "z":6.66,
+               "name":"Brown Starfish bar and grill"
+            },
+            {
+               "color":"#ffb82b",
+               "x":152.58,
+               "y":-1754.83,
+               "z":3.95,
+               "name":"Santa Maria Beach"
+            },
+            {
+               "color":"#ffb82b",
+               "x":508.28,
+               "y":-1358.6,
+               "z":14.95,
+               "name":"Pro Laps store"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1199.85,
+               "y":-933.07,
+               "z":41.73,
+               "name":"Burger Shot"
+            },
+            {
+               "color":"#ffb82b",
+               "x":816.29,
+               "y":-1630.76,
+               "z":12.39,
+               "name":"Burger Shot"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1311.97,
+               "y":-1712.29,
+               "z":12.39,
+               "name":"The Legal Cinema"
+            }
+         ],
+         "paths":[
+
+         ],
+         "areas":[
+
+         ],
+         "zones":[
+
+         ],
+         "visible":true
+      },
+      {
+         "name":"San Fierro",
+         "mapId":"SA",
+         "mapScale":0.32805,
+         "mapOffset":{
+            "x":2302.935679996354,
+            "y":489.688793302668
+         },
+         "blips":[
+            {
+               "color":"#ffb82b",
+               "x":-1974.88,
+               "y":486.74,
+               "z":30.37,
+               "name":"Downtown skyscraper"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2044.42,
+               "y":500.77,
+               "z":35.18,
+               "name":"Skyscraper in King's"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2150.58,
+               "y":251.62,
+               "z":35.18,
+               "name":"Mall"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-1988.51,
+               "y":138.31,
+               "z":27.86,
+               "name":"Cranberry Station"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2216.4,
+               "y":-297.31,
+               "z":35.2,
+               "name":"Stadium"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2726.43,
+               "y":-310.59,
+               "z":6.03,
+               "name":"Country Club"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2704.65,
+               "y":-3.56,
+               "z":3.2,
+               "name":"Cathedral"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2709,
+               "y":127.5,
+               "z":4.58,
+               "name":"Library"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2751.91,
+               "y":376.78,
+               "z":4.58,
+               "name":"City Hall"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2415.75,
+               "y":330.96,
+               "z":33.98,
+               "name":"Vank Hoff in the Park Hotel"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2454.93,
+               "y":138.93,
+               "z":33.98,
+               "name":"Biffin Bridge Hotel"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2499.21,
+               "y":-16.61,
+               "z":24.61,
+               "name":"Central Hashbury"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2431.74,
+               "y":-198.92,
+               "z":34.16,
+               "name":"Missionary Hill viewpoint"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-1815.15,
+               "y":597.75,
+               "z":38.53,
+               "name":"Downtown skyscraper"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-1530.78,
+               "y":487.2,
+               "z":9.44,
+               "name":"Easter Basin Naval Station"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-1745.08,
+               "y":27.76,
+               "z":5.45,
+               "name":"Easter Basin Docks"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-1414.56,
+               "y":-301.35,
+               "z":14.64,
+               "name":"Airport"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2618.47,
+               "y":1432.75,
+               "z":6.1,
+               "name":"Under Gant Bridge"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-1904.77,
+               "y":882.73,
+               "z":34.02,
+               "name":"Downtown Square"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2134.73,
+               "y":919.08,
+               "z":78.84,
+               "name":"Top of the twisty path"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2361.84,
+               "y":993.1,
+               "z":49.69,
+               "name":"Burger Shot"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2753.69,
+               "y":779.94,
+               "z":53.24,
+               "name":"Tuff Nut Donuts"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-1714.72,
+               "y":1332.56,
+               "z":6.04,
+               "name":"Pier 69"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2251.03,
+               "y":717.8,
+               "z":48.3,
+               "name":"Chinatown Gates"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-1807.81,
+               "y":936.07,
+               "z":23.75,
+               "name":"The Well Stacked Pizza Co"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-1969.2,
+               "y":1115.31,
+               "z":52.69,
+               "name":"Church"
+            },
+            {
+               "color":"#ffb82b",
+               "x":-2540.59,
+               "y":1222.19,
+               "z":36.43,
+               "name":"The bridge"
+            }
+         ],
+         "paths":[
+
+         ],
+         "areas":[
+
+         ],
+         "zones":[
+
+         ],
+         "visible":true
+      },
+      {
+         "name":"Las Venturas",
+         "mapId":"SA",
+         "mapScale":0.2657205,
+         "mapOffset":{
+            "x":-1751.7628190150574,
+            "y":1613.0097370147398
+         },
+         "blips":[
+            {
+               "color":"#ffb82b",
+               "x":2491.38,
+               "y":2773.61,
+               "z":9.76,
+               "name":"The oil refinery"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2899.21,
+               "y":2435.62,
+               "z":9.76,
+               "name":"The shopping mall"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2220.49,
+               "y":1838.5,
+               "z":9.76,
+               "name":"Clown's Pocket Casino"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2246.2,
+               "y":1896.59,
+               "z":9.76,
+               "name":"The Starfish Casino"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2127.31,
+               "y":2355.78,
+               "z":9.76,
+               "name":"The Emerald Isle"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2289.59,
+               "y":2415.94,
+               "z":9.78,
+               "name":"Police station"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2636.22,
+               "y":2344.8,
+               "z":9.76,
+               "name":"VRock Casino"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1439,
+               "y":754,
+               "z":9.76,
+               "name":"Blackfield Chapel"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1095.62,
+               "y":1375.29,
+               "z":9.8,
+               "name":"Blackfield Stadium"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1162.08,
+               "y":1124.44,
+               "z":9.81,
+               "name":"Greenglass College"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1710.62,
+               "y":1448.15,
+               "z":9.66,
+               "name":"Las Venturas Airport"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2490.38,
+               "y":2771.7,
+               "z":9.8,
+               "name":"Military fuel depot"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1465.19,
+               "y":2773.97,
+               "z":9.69,
+               "name":"Golf clubhouse"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1436.14,
+               "y":2670.39,
+               "z":9.68,
+               "name":"Yellow Bell train station"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1486.47,
+               "y":2257.95,
+               "z":9.81,
+               "name":"Baseball stadium"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1694.19,
+               "y":2200.38,
+               "z":9.82,
+               "name":"The Steakhouse"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1744.66,
+               "y":2055.81,
+               "z":9.73,
+               "name":"Redsands West fire station"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1840.55,
+               "y":2169.65,
+               "z":9.8,
+               "name":"Hotel"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1928.36,
+               "y":2434.31,
+               "z":9.81,
+               "name":"Souvenir Shop"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2424.12,
+               "y":2315.74,
+               "z":9.68,
+               "name":"Art Gallery"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2431.15,
+               "y":2375.06,
+               "z":9.68,
+               "name":"Bank"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2370.3,
+               "y":2467.93,
+               "z":9.68,
+               "name":"The courthouse"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2272.04,
+               "y":2286.76,
+               "z":9.68,
+               "name":"Estate agents"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2324.51,
+               "y":2155.1,
+               "z":9.68,
+               "name":"Freemont St. Casino"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2508.47,
+               "y":2131.2,
+               "z":9.81,
+               "name":"Topless Girls of Bush County"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2530.91,
+               "y":2083.36,
+               "z":9.68,
+               "name":"Ammu-Nation"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2546.51,
+               "y":1968.61,
+               "z":9.81,
+               "name":"24/7"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2530.78,
+               "y":1821.23,
+               "z":9.81,
+               "name":"Chinese Mall"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2360.31,
+               "y":2072,
+               "z":9.68,
+               "name":"Burger Shot"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2035.46,
+               "y":1912.28,
+               "z":11.18,
+               "name":"Visage Casino"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2078.41,
+               "y":2041.12,
+               "z":9.82,
+               "name":"Tourist Information"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2159.09,
+               "y":1678.11,
+               "z":9.7,
+               "name":"Caligula's Casino"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2028.5,
+               "y":1711.74,
+               "z":9.68,
+               "name":"Pirates in Men's Pants Casino"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2076.41,
+               "y":1519.04,
+               "z":9.69,
+               "name":"Royal Casino"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2040.25,
+               "y":1342.89,
+               "z":9.68,
+               "name":"High Roller Casino"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2230.47,
+               "y":1284.89,
+               "z":9.68,
+               "name":"Camel's Toe Casino"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2074.51,
+               "y":1162.83,
+               "z":9.69,
+               "name":"Come-a-lot Casino"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2039.26,
+               "y":1174.17,
+               "z":9.68,
+               "name":"Pink Swan Casino"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2040.28,
+               "y":1005.62,
+               "z":9.66,
+               "name":"The Four Dragons Casino"
+            },
+            {
+               "color":"#ffb82b",
+               "x":1608.52,
+               "y":1827.75,
+               "z":9.83,
+               "name":"Hospital"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2483.51,
+               "y":922.54,
+               "z":9.82,
+               "name":"Church"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2544.67,
+               "y":1016.17,
+               "z":9.76,
+               "name":"24Hrs Men's club"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2491.76,
+               "y":1533.69,
+               "z":9.69,
+               "name":"Tiki Hotel"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2828.65,
+               "y":1292.27,
+               "z":9.83,
+               "name":"Linden Station"
+            },
+            {
+               "color":"#ffb82b",
+               "x":2524.49,
+               "y":2297.58,
+               "z":9.68,
+               "name":"Sex shop"
+            }
+         ],
+         "paths":[
+
+         ],
+         "areas":[
+
+         ],
+         "zones":[
+
+         ],
+         "visible":true
+      },
+      {
+         "name":"Tierra Robada",
+         "mapId":"SA",
+         "mapScale":0.23914845000000004,
+         "mapOffset":{
+            "x":912.0981654523684,
+            "y":1788.416501590854
+         },
+         "blips":[
+            {
+               "color":"#f23e02",
+               "x":-1934.08,
+               "y":2382.76,
+               "z":48.5,
+               "name":"Art-Deco Cafe"
+            },
+            {
+               "color":"#f23e02",
+               "x":-846.94,
+               "y":1528.15,
+               "z":20.55,
+               "name":"The Smokin' Beef Grill"
+            }
+         ],
+         "paths":[
+
+         ],
+         "areas":[
+
+         ],
+         "zones":[
+
+         ],
+         "visible":true
+      },
+      {
+         "name":"Bone County",
+         "mapId":"SA",
+         "mapScale":0.23914845000000004,
+         "mapOffset":{
+            "x":146.8830867010742,
+            "y":1796.7795079160048
+         },
+         "blips":[
+            {
+               "color":"#f23e02",
+               "x":689.65,
+               "y":1943.25,
+               "z":4.54,
+               "name":"The Big Spread Ranch"
+            },
+            {
+               "color":"#f23e02",
+               "x":-904.37,
+               "y":2007.64,
+               "z":59.91,
+               "name":"The Sherman Dam"
+            },
+            {
+               "color":"#f23e02",
+               "x":392.02,
+               "y":2547.81,
+               "z":15.56,
+               "name":"Desert Airfield"
+            },
+            {
+               "color":"#f23e02",
+               "x":832.83,
+               "y":1705.43,
+               "z":4.86,
+               "name":"Shooting Range"
+            },
+            {
+               "color":"#f23e02",
+               "x":-84.98,
+               "y":1358.62,
+               "z":9.36,
+               "name":"Lil' Probe Inn"
+            }
+         ],
+         "paths":[
+
+         ],
+         "areas":[
+
+         ],
+         "zones":[
+
+         ],
+         "visible":true
+      }
+   ],
+   "editMode":"info",
+   "showLayerMenu":true,
+   "showToolMenu":false
+}
