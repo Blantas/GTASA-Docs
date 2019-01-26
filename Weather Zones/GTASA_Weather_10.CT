@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="26">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"in Game Timer"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>B7CB84</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Weather lock"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>C81318</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Timer related to weather and time in ms"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>B70158</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Current Minute"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>B70152</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Current Hour"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>B70153</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"Snapshots Done"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+7791BC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"Clipping"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>808080</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description>"CDraw::ms_fNearClipZ"</Description>
+          <VariableType>Float</VariableType>
+          <Address>C3EFA0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"CDraw::ms_fFarClipZ"</Description>
+          <VariableType>Float</VariableType>
+          <Address>C3EF9C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"Weather"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>808080</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"Weather Region [0-CS, 1-LS, 2-SF, 3-LV, 4-DS]"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+881314</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"Current weather"</Description>
+          <Color>C08000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>C81320</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"Upcoming weather"</Description>
+          <Color>C08000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>C8131C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>0 = EXTRASUNNY_LA
+1 = SUNNY_LA
+2 = EXTRASUNNY_SMOG_LA
+3 = SUNNY_SMOG_LA
+4 = CLOUDY_LA
+5 = SUNNY_SF
+6 = EXTRASUNNY_SF
+7 = CLOUDY_SF
+8 = RAINY_SF
+9 = FOGGY_SF
+10 = SUNNY_VEGAS
+11 = EXTRASUNNY_VEGAS (heat waves)
+12 = CLOUDY_VEGAS
+13 = EXTRASUNNY_COUNTRYSIDE
+14 = SUNNY_COUNTRYSIDE
+15 = CLOUDY_COUNTRYSIDE
+16 = RAINY_COUNTRYSIDE
+17 = EXTRASUNNY_DESERT
+18 = SUNNY_DESERT
+19 = SANDSTORM_DESERT
+20 = UNDERWATER (greenish, foggy)
+21 = EXTRACOLOURS_1 (very dark, gradiented skyline, purple) Used for interiors?
+22 = EXTRACOLOURS_2 (very dark, gradiented skyline, green) Used for interiors?
+</Comments>
+  <LuaScript>function attachGame()
+    GameID = getProcessIDFromProcessName("gta_sa.exe")
+    if GameID ~= getOpenedProcessID() and GameID ~= nil then
+       openProcess("gta_sa.exe")
+    end
+end
+
+t = createTimer(nil, false)
+timer_onTimer(t, attachGame)
+timer_setInterval(t, 5000)
+timer_setEnabled(t, true)
+</LuaScript>
+</CheatTable>
